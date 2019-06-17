@@ -1,0 +1,22 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/islittlezhou/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/islittlezhou/test/issues"
+  },
+  "homepage": "https://github.com/islittlezhou/test#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
